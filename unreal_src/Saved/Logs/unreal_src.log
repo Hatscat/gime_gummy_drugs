@@ -1,4 +1,4 @@
-﻿Log file open, 03/30/15 14:34:17
+﻿Log file open, 03/30/15 14:58:30
 LogInit:Display: Running engine for game: unreal_src
 LogInit: Version: 4.7.3-2479750+++depot+UE4-Releases+4.7
 LogInit: API Version: 2455222
@@ -7,74 +7,178 @@ LogInit: Compiled with Visual C++: 18.00.21005.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++depot+UE4-Releases+4.7
 LogInit: Command line: 
-LogInit: Base directory: D:/Epic Games/4.7/Engine/Binaries/Win64/
+LogInit: Base directory: E:/Unreal Engine/Epic Games/4.7/Engine/Binaries/Win64/
 LogInit: Rocket: 1
-[2015.03.30-12.34.17:682][  0]LogTaskGraph: Started task graph with 3 named threads and 6 total threads.
-[2015.03.30-12.34.17:733][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
-[2015.03.30-12.34.17:742][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
-[2015.03.30-12.34.17:751][  0]LogInit: Object subsystem initialized
-[2015.03.30-12.34.17:755][  0]LogInit: Selected Device Profile: [Windows]
-[2015.03.30-12.34.17:755][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2015.03.30-12.34.17:758][  0]LogInit: Computer: LIMUL
-[2015.03.30-12.34.17:758][  0]LogInit: User: lubou000
-[2015.03.30-12.34.17:758][  0]LogInit: CPU Page size=4096, Cores=4
-[2015.03.30-12.34.17:758][  0]LogInit: High frequency timer resolution =2.435771 MHz
-[2015.03.30-12.34.17:759][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx) Virtual=131072.0GB
-[2015.03.30-12.34.17:759][  0]LogMemory: Platform Memory Stats for Windows
-[2015.03.30-12.34.17:759][  0]LogMemory: Process Physical Memory: 45.21 MB used, 45.21 MB peak
-[2015.03.30-12.34.17:759][  0]LogMemory: Process Virtual Memory: 24.46 MB used, 24.46 MB peak
-[2015.03.30-12.34.17:759][  0]LogMemory: Physical Memory: 4878.90 MB used, 16301.70 MB total
-[2015.03.30-12.34.17:759][  0]LogMemory: Virtual Memory: 287.55 MB used, 134217728.00 MB total
-[2015.03.30-12.34.17:783][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 970M  (Feature Level 11_0)
-[2015.03.30-12.34.17:783][  0]LogD3D11RHI: Adapter has 2922MB of dedicated video memory, 0MB of dedicated system memory, and 8150MB of shared system memory, 1 output[s]
-[2015.03.30-12.34.17:789][  0]LogD3D11RHI: Found D3D11 adapter 1: Intel(R) HD Graphics 4600 (Feature Level 11_0)
-[2015.03.30-12.34.17:789][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 1792MB of shared system memory, 0 output[s]
-[2015.03.30-12.34.17:790][  0]LogD3D11RHI: Found D3D11 adapter 2: Microsoft Basic Render Driver (Feature Level 11_0)
-[2015.03.30-12.34.17:790][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 256MB of shared system memory, 0 output[s]
-[2015.03.30-12.34.17:791][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
-[2015.03.30-12.34.17:794][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
-[2015.03.30-12.34.17:803][  0]LogD3D11RHI: Async texture creation enabled
-[2015.03.30-12.34.17:857][  0]LogTextLocalizationManager: The requested culture ('fr_FR') has no localization data; falling back to 'en' for localization and internationalization data.
-[2015.03.30-12.34.17:935][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:UICommands, Key:Save_ToolTip):
-Resource: (D:/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-29098895) String: (Saves the current level to disk)
-Resource: (D:/Epic Games/4.7/Engine/Content/Localization/Engine/en/Engine.locres) Hash: (-1280300587) String: (Save selected data to vlog file)
-[2015.03.30-12.34.17:935][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:ContentBrowser, Key:ImportAssetToolTip):
-Resource: (D:/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-630476809) String: (Import to {0}...)
-Resource: (D:/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (1271782899) String: (Imports an asset from file to this folder.)
-[2015.03.30-12.34.18:009][  0]LogContentStreaming: Texture pool size is 0.000000MB
-[2015.03.30-12.34.19:860][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2015.03.30-12.34.20:300][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2015.03.30-12.34.20:344][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
-[2015.03.30-12.34.20:383][  0]LogDerivedDataCache: Loaded boot cache 0.04s 39MB C:/Users/lubou_000/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
-[2015.03.30-12.34.20:383][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/lubou_000/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc
-[2015.03.30-12.34.20:383][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../gime_gummy_drugs/unreal_src/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2015.03.30-12.34.20:383][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2015.03.30-12.34.20:489][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2015.03.30-12.34.20:501][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lubou_000/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2015.03.30-12.34.20:739][  0]LogMeshUtilities: No automatic mesh reduction module available
-[2015.03.30-12.34.20:739][  0]LogMeshUtilities: No automatic mesh merging module available
-[2015.03.30-12.34.21:068][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2015.03.30-12.34.21:122][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf'
-[2015.03.30-12.34.21:900][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2015.03.30-12.34.22:051][  0]SourceControl: Info Source control is disabled
-[2015.03.30-12.34.22:051][  0]SourceControl: Info Source control is disabled
-[2015.03.30-12.34.22:051][  0]SourceControl: Info Source control is disabled
-[2015.03.30-12.34.22:051][  0]LogSourceControl: RunCommandInternalRaw: 'git version'
-[2015.03.30-12.34.22:051][  0]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
-[2015.03.30-12.34.22:057][  0]SourceControl: Info Source control is disabled
-[2015.03.30-12.34.22:184][  0]LogObj: 24231 objects as part of root set at end of initial load.
-[2015.03.30-12.34.22:184][  0]LogUObjectAllocator: 5136432 out of 0 bytes used by permanent object pool.
-[2015.03.30-12.34.22:252][  0]LogEngine: Initializing Engine...
-[2015.03.30-12.34.24:383][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2015.03.30-12.34.24:707][  0]LogInit: FAudioDevice initialized.
-[2015.03.30-12.34.24:731][  0]LogAIModule: Creating AISystem for world NewWorld
-[2015.03.30-12.34.24:750][  0]LogDerivedDataCache: Saved boot cache 0.02s 39MB C:/Users/lubou_000/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
-[2015.03.30-12.34.24:753][  0]LogInit: Texture streaming: Enabled
-[2015.03.30-12.34.24:821][  0]LogAnalytics: Creating configured Analytics provider AnalyticsET
-[2015.03.30-12.34.24:821][  0]LogAnalytics: ET APIKey = Rocket.Release. APIServer = http://et2.epicgames.com/ET2/. AppVersion = 4.7.3-2479750+++depot+UE4-Releases+4.7
-[2015.03.30-12.34.24:821][  0]LogAnalytics: ET APIKey = Rocket.Release. DataRouterUploadURL = https://datarouter-public-service-gamedev.ol.epicgames.net/datarouter/api/v1/public/data. AppVersion = 4.7.3-2479750+++depot+UE4-Releases+4.7
-[2015.03.30-12.34.24:821][  0]LogAnalytics: SetUserId 2264a4d34c200998deb4a2a02a4806fa|609fb78e7e5d4ea7a9fe2a7ce8ff314b|8b7e49f6-b406-42f2-828d-d4b9bc44ace1
-[2015.03.30-12.34.24:821][  0]LogAnalytics: AnalyticsET::StartSession [Rocket.Release]
-[2015.03.30-12.34.24:843][  0]LogInit: Transaction tracking system initialized
-[2015.03.30-12.34.24:959][  0]BlueprintLog: New page: Editor Load
-[2015.03.30-12.34.24:986][  0]LogAssetRegistry: FAssetRegistry took 0.0111 seconds to 
+[2015.03.30-12.58.30:335][  0]LogTaskGraph: Started task graph with 3 named threads and 6 total threads.
+[2015.03.30-12.58.30:385][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2015.03.30-12.58.30:414][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2015.03.30-12.58.30:424][  0]LogInit: Object subsystem initialized
+[2015.03.30-12.58.30:425][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'TranslucentSortAxis = (X=0.000000,Y=-1.000000,Z=0.000000)'
+[2015.03.30-12.58.30:425][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/M.LORE/Documents/GitHub/gime_gummy_drugs/unreal_src/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.03.30-12.58.30:426][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2015.03.30-12.58.30:426][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/M.LORE/Documents/GitHub/gime_gummy_drugs/unreal_src/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.03.30-12.58.30:426][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=),ExternalCurve=None)'
+[2015.03.30-12.58.30:426][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/M.LORE/Documents/GitHub/gime_gummy_drugs/unreal_src/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.03.30-12.58.30:426][  0]LogInit: Selected Device Profile: [Windows]
+[2015.03.30-12.58.30:426][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2015.03.30-12.58.30:431][  0]LogInit: Computer: MLORE-PC
+[2015.03.30-12.58.30:431][  0]LogInit: User: MLORE
+[2015.03.30-12.58.30:431][  0]LogInit: CPU Page size=4096, Cores=4
+[2015.03.30-12.58.30:431][  0]LogInit: High frequency timer resolution =2.338398 MHz
+[2015.03.30-12.58.30:431][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx) Virtual=8192.0GB
+[2015.03.30-12.58.30:431][  0]LogMemory: Platform Memory Stats for Windows
+[2015.03.30-12.58.30:431][  0]LogMemory: Process Physical Memory: 48.95 MB used, 48.95 MB peak
+[2015.03.30-12.58.30:431][  0]LogMemory: Process Virtual Memory: 24.85 MB used, 24.85 MB peak
+[2015.03.30-12.58.30:431][  0]LogMemory: Physical Memory: 3683.40 MB used, 8112.63 MB total
+[2015.03.30-12.58.30:431][  0]LogMemory: Virtual Memory: 278.91 MB used, 8388608.00 MB total
+[2015.03.30-12.58.30:679][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 765M   (Feature Level 11_0)
+[2015.03.30-12.58.30:679][  0]LogD3D11RHI: Adapter has 1992MB of dedicated video memory, 0MB of dedicated system memory, and 2048MB of shared system memory, 1 output[s]
+[2015.03.30-12.58.30:679][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2015.03.30-12.58.30:685][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2015.03.30-12.58.30:700][  0]LogD3D11RHI: Async texture creation enabled
+[2015.03.30-12.58.30:801][  0]LogTextLocalizationManager: The requested culture ('fr_FR') has no localization data; falling back to 'en' for localization and internationalization data.
+[2015.03.30-12.58.30:890][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:UICommands, Key:Save_ToolTip):
+Resource: (E:/Unreal Engine/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-29098895) String: (Saves the current level to disk)
+Resource: (E:/Unreal Engine/Epic Games/4.7/Engine/Content/Localization/Engine/en/Engine.locres) Hash: (-1280300587) String: (Save selected data to vlog file)
+[2015.03.30-12.58.30:890][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:ContentBrowser, Key:ImportAssetToolTip):
+Resource: (E:/Unreal Engine/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-630476809) String: (Import to {0}...)
+Resource: (E:/Unreal Engine/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (1271782899) String: (Imports an asset from file to this folder.)
+[2015.03.30-12.58.30:979][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2015.03.30-12.58.33:145][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.30-12.58.33:593][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.30-12.58.33:650][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2015.03.30-12.58.33:693][  0]LogDerivedDataCache: Loaded boot cache 0.04s 39MB C:/Users/M.LORE/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
+[2015.03.30-12.58.33:693][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/M.LORE/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc
+[2015.03.30-12.58.33:693][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/M.LORE/Documents/GitHub/gime_gummy_drugs/unreal_src/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2015.03.30-12.58.33:693][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2015.03.30-12.58.33:812][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2015.03.30-12.58.33:824][  0]LogDerivedDataCache: Using Local data cache path C:/Users/M.LORE/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2015.03.30-12.58.34:093][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2015.03.30-12.58.34:093][  0]LogMeshUtilities: No automatic mesh merging module available
+[2015.03.30-12.58.34:419][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2015.03.30-12.58.34:483][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf'
+[2015.03.30-12.58.35:094][  0]LogWmfMedia: Failed to load mf.dll
+[2015.03.30-12.58.35:094][  0]LogWmfMedia: Failed to load required Windows Media Foundation libraries
+[2015.03.30-12.58.35:103][  0]LogWindowsMoviePlayer:Warning: Could not load mf.dll
+[2015.03.30-12.58.35:103][  0]LogWindowsMoviePlayer:Warning: Could not load mfplat.dll
+[2015.03.30-12.58.35:104][  0]LogWindowsMoviePlayer:Warning: Could not load mfplay.dll
+[2015.03.30-12.58.35:152][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2015.03.30-12.58.35:338][  0]SourceControl: Info Source control is disabled
+[2015.03.30-12.58.35:338][  0]SourceControl: Info Source control is disabled
+[2015.03.30-12.58.35:338][  0]SourceControl: Info Source control is disabled
+[2015.03.30-12.58.35:338][  0]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.30-12.58.35:338][  0]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.30-12.58.35:346][  0]SourceControl: Info Source control is disabled
+[2015.03.30-12.58.35:512][  0]LogObj: 24231 objects as part of root set at end of initial load.
+[2015.03.30-12.58.35:512][  0]LogUObjectAllocator: 5136440 out of 0 bytes used by permanent object pool.
+[2015.03.30-12.58.35:585][  0]LogEngine: Initializing Engine...
+[2015.03.30-12.58.37:724][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.03.30-12.58.37:734][  0]LogInit: FAudioDevice initialized.
+[2015.03.30-12.58.37:766][  0]LogAIModule: Creating AISystem for world NewWorld
+[2015.03.30-12.58.37:786][  0]LogDerivedDataCache: Saved boot cache 0.02s 39MB C:/Users/M.LORE/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
+[2015.03.30-12.58.37:790][  0]LogInit: Texture streaming: Enabled
+[2015.03.30-12.58.37:881][  0]LogAnalytics: Creating configured Analytics provider AnalyticsET
+[2015.03.30-12.58.37:881][  0]LogAnalytics: ET APIKey = Rocket.Release. APIServer = http://et2.epicgames.com/ET2/. AppVersion = 4.7.3-2479750+++depot+UE4-Releases+4.7
+[2015.03.30-12.58.37:881][  0]LogAnalytics: ET APIKey = Rocket.Release. DataRouterUploadURL = https://datarouter-public-service-gamedev.ol.epicgames.net/datarouter/api/v1/public/data. AppVersion = 4.7.3-2479750+++depot+UE4-Releases+4.7
+[2015.03.30-12.58.37:881][  0]LogAnalytics: SetUserId c2e0ef564299d4bcbdfd2d8b919b50a7|910e53a24e04420c86b8f8906189c7c0|5aeb2446-97ca-4e0b-a4e4-f0fdbe3b584b
+[2015.03.30-12.58.37:881][  0]LogAnalytics: AnalyticsET::StartSession [Rocket.Release]
+[2015.03.30-12.58.37:904][  0]LogInit: Transaction tracking system initialized
+[2015.03.30-12.58.38:075][  0]BlueprintLog: New page: Editor Load
+[2015.03.30-12.58.38:108][  0]LogAssetRegistry: FAssetRegistry took 0.0095 seconds to start up
+[2015.03.30-12.58.38:108][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2015.03.30-12.58.38:670][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.30-12.58.38:992][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.30-12.58.39:222][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Regular.ttf'
+[2015.03.30-12.58.39:223][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Bold.ttf'
+[2015.03.30-12.58.39:227][  0]LogConsoleResponse:Display: 
+[2015.03.30-12.58.39:335][  0]LogCook:Display: Done creating registry. It took  0.00s.
+[2015.03.30-12.58.39:460][  0]SourceControl: Info Source control is disabled
+[2015.03.30-12.58.39:460][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2015.03.30-12.58.39:461][  0]LightingResults: New page: Lighting Build
+[2015.03.30-12.58.39:472][  0]MapCheck: New page: Map Check
+[2015.03.30-12.58.39:472][  0]LightingResults: New page: Lighting Build
+[2015.03.30-12.58.39:479][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000014062980
+[2015.03.30-12.58.40:005][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2015.03.30-12.58.40:009][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2015.03.30-12.58.40:010][  0]Cmd: MAP CHECKDEP
+[2015.03.30-12.58.40:010][  0]MapCheck: New page: Untitled_1 - Mar 30, 2015, 4:58:40 PM
+[2015.03.30-12.58.40:073][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 63.331ms to complete.
+[2015.03.30-12.58.40:073][  0]LogFileHelpers: Loading map 'Template_Default' took 0.613
+[2015.03.30-12.58.40:198][  0]LogCollectionManager: Loaded 0 collections in 0.001661 seconds
+[2015.03.30-12.58.40:206][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 1696 classes and 261 folders.
+[2015.03.30-12.58.40:235][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0016 seconds. Added 1 classes and 2 folders.
+[2015.03.30-12.58.40:281][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2015.03.30-12.58.40:282][  0]LogSlate:Warning: Failed to load font data from 'Veranda'
+[2015.03.30-12.58.40:289][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2015.03.30-12.58.40:314][  0]LogLoad: Full Startup: 11.81 seconds (BP compile: 0.07 seconds)
+[2015.03.30-12.58.40:498][  0]LogRenderer:Warning: Reallocating scene render targets to support 1208x576 (Frame:2).
+[2015.03.30-12.58.40:800][  4]LogAssetRegistry: Asset discovery search completed in 2.7012 seconds
+[2015.03.30-13.02.27:740][393]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.02.48:830][636]Cmd: MAP LOAD FILE="C:/Users/M.LORE/Documents/GitHub/gime_gummy_drugs/unreal_src/Content/main_level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2015.03.30-13.02.48:830][636]LightingResults: New page: Lighting Build
+[2015.03.30-13.02.48:852][636]LoadErrors: New page: Loading map: main_level.umap
+[2015.03.30-13.02.48:852][636]MapCheck: New page: Map Check
+[2015.03.30-13.02.48:852][636]LightingResults: New page: Lighting Build
+[2015.03.30-13.02.48:859][636]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000F6E6D40
+[2015.03.30-13.02.48:862][636]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2015.03.30-13.02.48:863][636]LogAIModule: Creating AISystem for world main_level
+[2015.03.30-13.02.48:870][636]Cmd: MAP CHECKDEP
+[2015.03.30-13.02.48:870][636]MapCheck: New page: main_level - Mar 30, 2015, 5:02:48 PM
+[2015.03.30-13.02.48:935][636]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 64.603ms to complete.
+[2015.03.30-13.02.48:935][636]LogFileHelpers: Loading map 'main_level' took 0.107
+[2015.03.30-13.19.54:122][191]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.19.56:134][311]LogTexture:Display: Building textures: img (AutoDXT)
+[2015.03.30-13.19.56:308][311]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0019 seconds. Added 1 classes and 2 folders.
+[2015.03.30-13.22.50:396][893]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Sprites'
+[2015.03.30-13.22.54:712][128]LogRenderer:Warning: Reallocating scene render targets to support 1528x920 (Frame:2970).
+[2015.03.30-13.23.15:260][333]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.23.36:905][606]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.30-13.23.36:906][606]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.23.46:195][123]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000FD411C0
+[2015.03.30-13.23.46:367][126]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/main_level' took 0.011
+[2015.03.30-13.23.46:401][126]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/img_TileSet] ([1] browsable assets)...
+[2015.03.30-13.23.46:430][126]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/Textures/img_TileSet.img_TileSet]
+[2015.03.30-13.23.46:430][126]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/img_TileSet]
+[2015.03.30-13.23.46:883][126]LogSavePackage: Save=415.327087ms
+[2015.03.30-13.23.46:885][126]LogSavePackage: Moving 'C:/Users/M.LORE/Documents/GitHub/gime_gummy_drugs/unreal_src/Saved/img_TileSet_Auto1DFC9598245AEED5C89BAACB7F7281A5E.tmp' to 'C:/Users/M.LORE/Documents/GitHub/gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Textures/img_TileSet_Auto1.uasset'
+[2015.03.30-13.23.46:895][126]LogFileHelpers: Auto-saving content packages took 0.527
+[2015.03.30-13.24.07:799][197]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Sprites'
+[2015.03.30-13.24.10:016][330]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:577][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.30-13.24.15:578][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:578][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:578][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:578][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:578][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:579][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:579][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:579][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:579][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:579][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:580][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:580][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:580][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:580][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:580][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:581][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:581][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:581][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:581][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:581][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:582][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:582][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.15:582][644]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.24.51:805][784]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001F38E980
+[2015.03.30-13.24.51:805][784]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000F5B1D00
+[2015.03.30-13.24.59:742][ 51]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.30-13.24.59:742][ 51]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.26.23:436][ 30]Cmd: MODE GRID=0
+[2015.03.30-13.30.02:174][143]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.30.06:102][373]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001D648220
+[2015.03.30-13.30.45:642][648]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.30-13.30.45:642][648]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.30.51:421][987]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.30-13.30.51:421][987]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.31.09:071][ 36]Cmd: TRANSACTION UNDO
+[2015.03.30-13.31.09:071][ 36]LogEditorTransaction: Undo Modification in Viewport
+[2015.03.30-13.32.19:405][321]LogParticles: Des
