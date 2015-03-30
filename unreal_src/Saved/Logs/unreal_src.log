@@ -77,4 +77,890 @@ Resource: (D:/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres
 [2015.03.30-12.34.24:821][  0]LogAnalytics: AnalyticsET::StartSession [Rocket.Release]
 [2015.03.30-12.34.24:843][  0]LogInit: Transaction tracking system initialized
 [2015.03.30-12.34.24:959][  0]BlueprintLog: New page: Editor Load
-[2015.03.30-12.34.24:986][  0]LogAssetRegistry: FAssetRegistry took 0.0111 seconds to 
+[2015.03.30-12.34.24:986][  0]LogAssetRegistry: FAssetRegistry took 0.0111 seconds to start up
+[2015.03.30-12.34.24:986][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2015.03.30-12.34.25:437][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.30-12.34.25:775][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.30-12.34.29:371][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Regular.ttf'
+[2015.03.30-12.34.29:371][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Bold.ttf'
+[2015.03.30-12.34.29:378][  0]LogConsoleResponse:Display: 
+[2015.03.30-12.34.29:478][  0]LogCook:Display: Done creating registry. It took  0.00s.
+[2015.03.30-12.34.29:577][  0]SourceControl: Info Source control is disabled
+[2015.03.30-12.34.29:577][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2015.03.30-12.34.29:577][  0]LightingResults: New page: Lighting Build
+[2015.03.30-12.34.29:586][  0]MapCheck: New page: Map Check
+[2015.03.30-12.34.29:586][  0]LightingResults: New page: Lighting Build
+[2015.03.30-12.34.29:592][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000197352BB00
+[2015.03.30-12.34.30:069][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2015.03.30-12.34.30:073][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2015.03.30-12.34.30:074][  0]Cmd: MAP CHECKDEP
+[2015.03.30-12.34.30:074][  0]MapCheck: New page: Untitled_1 - Mar 30, 2015, 4:34:30 PM
+[2015.03.30-12.34.30:135][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 61.508ms to complete.
+[2015.03.30-12.34.30:135][  0]LogFileHelpers: Loading map 'Template_Default' took 0.558
+[2015.03.30-12.34.30:243][  0]LogCollectionManager: Loaded 0 collections in 0.000927 seconds
+[2015.03.30-12.34.30:250][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 1696 classes and 261 folders.
+[2015.03.30-12.34.30:271][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2015.03.30-12.34.30:307][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2015.03.30-12.34.30:308][  0]LogSlate:Warning: Failed to load font data from 'Veranda'
+[2015.03.30-12.34.30:314][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2015.03.30-12.34.30:340][  0]LogLoad: Full Startup: 13.22 seconds (BP compile: 0.07 seconds)
+[2015.03.30-12.34.30:519][  0]LogRenderer:Warning: Reallocating scene render targets to support 1208x576 (Frame:2).
+[2015.03.30-12.34.30:759][  3]LogAssetRegistry: Asset discovery search completed in 5.7853 seconds
+[2015.03.30-12.35.32:423][480]LightingResults: New page: Lighting Build
+[2015.03.30-12.35.32:423][480]MapCheck: New page: Map Check
+[2015.03.30-12.35.32:423][480]LightingResults: New page: Lighting Build
+[2015.03.30-12.35.32:437][480]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000196C4BDA80
+[2015.03.30-12.35.32:442][480]LogAIModule: Creating AISystem for world NewWorld
+[2015.03.30-12.35.32:448][480]LoadErrors: New page: New Map
+[2015.03.30-12.35.32:596][489]LogEditorViewport: Clicking Background
+[2015.03.30-12.35.41:487][993]LogRenderer:Warning: Reallocating scene render targets to support 1208x928 (Frame:642).
+[2015.03.30-12.35.52:718][663]LogEditorViewport: Clicking Background
+[2015.03.30-12.36.01:943][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/main_level" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/main_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.30-12.36.01:957][710]LogSavePackage: Save=5.436882ms
+[2015.03.30-12.36.01:957][710]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/main_level497BE39A45D5F4C7001158AD6DA0BDEE.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/main_level.umap'
+[2015.03.30-12.36.01:969][710]LogFileHelpers: Saving map 'main_level' took 0.170
+[2015.03.30-12.41.02:203][414]LogFactory: FactoryCreateBinary: Texture with TextureFactory (0 0 C:\Users\lubou_000\Pictures\bomb_party.png)
+[2015.03.30-12.41.13:934][414]0.000018 seconds to analyze Texture2D /Game/bomb_party.bomb_party
+
+[2015.03.30-12.41.13:934][414]LogTexture:Display: Building textures: bomb_party (AutoDXT)
+[2015.03.30-12.41.14:001][414]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
+[2015.03.30-12.42.19:110][278]LogFactory: FactoryCreateBinary: Texture with TextureFactory (0 0 C:\Users\lubou_000\Pictures\bomb_party.png)
+[2015.03.30-12.42.19:111][278]0.000010 seconds to analyze Texture2D /Game/bomb_party.bomb_party
+
+[2015.03.30-12.42.19:111][278]LogTexture:Display: Building textures: bomb_party (AutoDXT)
+[2015.03.30-12.42.19:129][278]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.30-12.42.19:129][278]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
+[2015.03.30-12.42.22:272][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bomb_party" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/bomb_party.uasset" SILENT=true
+[2015.03.30-12.42.22:324][390]LogSavePackage: Save=51.052010ms
+[2015.03.30-12.42.22:324][390]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/bomb_party830F24D74FE00D57268658AEA2FCFC86.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/bomb_party.uasset'
+[2015.03.30-12.42.46:821][216]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
+[2015.03.30-12.42.55:623][726]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
+[2015.03.30-12.43.09:535][544]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
+[2015.03.30-12.43.24:861][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/bomb_party" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Textures/bomb_party.uasset" SILENT=true
+[2015.03.30-12.43.24:892][439]LogSavePackage: Save=29.711742ms
+[2015.03.30-12.43.24:892][439]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/bomb_party2318B2E249728246622735A12ED269DA.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Textures/bomb_party.uasset'
+[2015.03.30-12.43.26:890][537]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
+[2015.03.30-12.43.34:856][ 15]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:064][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.30-12.43.53:065][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:065][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:065][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:065][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:065][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:066][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:066][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:066][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:066][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:066][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:067][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:067][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:067][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:067][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:067][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:067][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:068][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:068][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:068][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:068][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:068][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:069][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.43.53:069][ 65]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.45.00:733][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/img" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Textures/img.uasset" SILENT=true
+[2015.03.30-12.45.00:764][952]LogSavePackage: Save=29.767576ms
+[2015.03.30-12.45.00:764][952]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/img393A2B9B409C34B19B2F04AD4F932CB3.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Textures/img.uasset'
+[2015.03.30-12.45.25:828][417]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.30-12.45.25:829][417]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.45.25:829][417]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.45.43:257][313]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.30-12.45.43:257][313]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.45.43:257][313]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.45.51:538][791]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.30-12.45.51:539][791]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.45.51:539][791]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.45.51:539][791]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.45.54:469][960]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/main_level' took 0.008
+[2015.03.30-12.45.54:502][960]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/img_2_3] ([1] browsable assets)...
+[2015.03.30-12.45.54:552][960]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/img_2_3.img_3]
+[2015.03.30-12.45.54:552][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/img_2_3]
+[2015.03.30-12.45.54:553][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/img_2_3" FILE="../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Textures/img_2_3_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2015.03.30-12.45.54:681][960]LogSavePackage: Save=126.077530ms
+[2015.03.30-12.45.54:682][960]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/img_2_3_Auto199EA588A4D022E822DDA7080A5D2BCBF.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Textures/img_2_3_Auto1.uasset'
+[2015.03.30-12.45.54:721][960]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/img_2] ([1] browsable assets)...
+[2015.03.30-12.45.54:765][960]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/img_2.img_2]
+[2015.03.30-12.45.54:765][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/img_2]
+[2015.03.30-12.45.54:767][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/img_2" FILE="../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Textures/img_2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2015.03.30-12.45.54:879][960]LogSavePackage: Save=111.515823ms
+[2015.03.30-12.45.54:880][960]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/img_2_Auto12DA897B847E3B724CF3C20B51543C35B.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Textures/img_2_Auto1.uasset'
+[2015.03.30-12.45.54:914][960]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/img_3] ([1] browsable assets)...
+[2015.03.30-12.45.54:948][960]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/img_3.img_3]
+[2015.03.30-12.45.54:948][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/img_3]
+[2015.03.30-12.45.54:949][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/img_3" FILE="../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Textures/img_3_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2015.03.30-12.45.55:061][960]LogSavePackage: Save=111.485443ms
+[2015.03.30-12.45.55:061][960]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/img_3_Auto169BC7C014EF227E337248DB989E331F1.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Textures/img_3_Auto1.uasset'
+[2015.03.30-12.45.55:095][960]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/img_4] ([1] browsable assets)...
+[2015.03.30-12.45.55:131][960]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/img_4.img_4]
+[2015.03.30-12.45.55:131][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/img_4]
+[2015.03.30-12.45.55:132][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/img_4" FILE="../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Textures/img_4_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2015.03.30-12.45.55:246][960]LogSavePackage: Save=113.986084ms
+[2015.03.30-12.45.55:247][960]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/img_4_Auto169E8EB5F4CFCB2BF3AAC6BBC8D252DDF.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Textures/img_4_Auto1.uasset'
+[2015.03.30-12.45.55:284][960]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/img_2_4] ([1] browsable assets)...
+[2015.03.30-12.45.55:331][960]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/img_2_4.img_4]
+[2015.03.30-12.45.55:331][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/img_2_4]
+[2015.03.30-12.45.55:332][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/img_2_4" FILE="../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Textures/img_2_4_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2015.03.30-12.45.55:444][960]LogSavePackage: Save=111.958801ms
+[2015.03.30-12.45.55:445][960]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/img_2_4_Auto191AEA5D143E0B8F85DC52FA7999C8AB9.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Textures/img_2_4_Auto1.uasset'
+[2015.03.30-12.45.55:481][960]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/img_3_4] ([1] browsable assets)...
+[2015.03.30-12.45.55:514][960]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/img_3_4.img_4]
+[2015.03.30-12.45.55:514][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/img_3_4]
+[2015.03.30-12.45.55:515][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/img_3_4" FILE="../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Textures/img_3_4_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2015.03.30-12.45.55:628][960]LogSavePackage: Save=112.164482ms
+[2015.03.30-12.45.55:628][960]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/img_3_4_Auto138F3E46748185BA9F6A01D83A9EF9221.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Textures/img_3_4_Auto1.uasset'
+[2015.03.30-12.45.55:633][960]LogFileHelpers: Auto-saving content packages took 1.165
+[2015.03.30-12.46.17:465][165]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.30-12.46.17:465][165]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-12.46.22:149][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/img_Sprite" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Sprites/img_Sprite.uasset" SILENT=true
+[2015.03.30-12.46.22:208][423]LogSavePackage: Save=59.042908ms
+[2015.03.30-12.46.22:208][423]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/img_SpriteD9EEEC794B0859B229981C9AB83834D2.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Sprites/img_Sprite.uasset'
+[2015.03.30-12.46.22:944][464]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Sprites'
+[2015.03.30-12.46.28:622][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/img_Sprite" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Textures/img_Sprite.uasset" SILENT=true
+[2015.03.30-12.46.28:624][800]LogSavePackage: Save=0.905668ms
+[2015.03.30-12.46.28:624][800]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/img_Sprite0A28769B4647BD3D7919E5B544DB7866.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Textures/img_Sprite.uasset'
+[2015.03.30-12.49.51:151][692]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Materials'
+[2015.03.30-12.49.53:037][790]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Materials'
+[2015.03.30-12.50.03:344][400]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-12.50.03:384][400]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_0) Not registered. Aborting.
+[2015.03.30-12.50.03:406][400]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_0) Not registered. Aborting.
+[2015.03.30-12.50.03:406][400]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.MaterialEditorMeshComponent_0) Already registered. Aborting.
+[2015.03.30-12.50.03:408][400]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-12.50.03:412][400]LogMaterial: 0.000103 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-12.50.04:507][453]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 29 instructions
+[2015.03.30-12.50.04:507][453]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-12.50.04:507][453]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-12.50.11:813][870]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-12.50.11:817][870]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-12.50.11:820][870]LogMaterial: 0.000067 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-12.50.11:973][878]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-12.50.11:973][878]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-12.50.11:973][878]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-12.51.55:134][766]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-12.51.55:136][766]LogMaterial: 0.000063 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-12.51.55:967][815]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-12.51.55:967][815]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-12.51.55:967][815]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-12.52.36:710][608]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-12.52.36:712][608]LogMaterial: 0.000138 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-12.52.36:713][608]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-12.52.36:714][608]LogMaterial: 0.000060 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-12.52.37:311][642]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-12.52.37:311][642]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-12.52.37:311][642]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-12.54.01:011][237]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-12.54.01:012][237]LogMaterial: 0.000055 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-12.54.01:527][268]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-12.54.01:528][268]LogMaterial: 0.000034 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-12.54.01:660][276]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-12.54.01:660][276]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-12.54.01:660][276]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-12.55.55:886][104]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/main_level' took 0.010
+[2015.03.30-12.55.55:914][104]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/lvl_proto] ([1] browsable assets)...
+[2015.03.30-12.55.55:973][104]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/lvl_proto.lvl_proto]
+[2015.03.30-12.55.55:973][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/lvl_proto]
+[2015.03.30-12.55.55:975][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/lvl_proto" FILE="../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Materials/lvl_proto_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2015.03.30-12.55.56:371][104]LogSavePackage: Save=394.515747ms
+[2015.03.30-12.55.56:371][104]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/lvl_proto_Auto2DFC5836E451FC0D510D411BBE3E0057F.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Materials/lvl_proto_Auto2.uasset'
+[2015.03.30-12.55.56:376][104]LogFileHelpers: Auto-saving content packages took 0.490
+[2015.03.30-12.58.53:695][994]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-12.58.53:696][994]LogMaterial: 0.000045 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-12.58.54:208][ 24]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-12.58.54:208][ 24]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-12.58.54:208][ 24]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-12.58.57:633][229]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-12.58.57:634][229]LogMaterial: 0.000071 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-12.58.57:769][236]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-12.58.57:769][236]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-12.58.57:769][236]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.00.01:355][708]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.00.01:356][708]LogMaterial: 0.000108 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.00.01:871][738]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.00.01:871][738]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.00.01:871][738]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.00.07:731][ 89]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.00.07:732][ 89]LogMaterial: 0.000108 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.00.07:864][ 96]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.00.07:864][ 96]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.00.07:864][ 96]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.00.13:683][445]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.00.13:685][445]LogMaterial: 0.000098 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.00.13:813][452]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.00.13:813][452]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.00.13:813][452]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.00.16:003][583]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.00.16:005][583]LogMaterial: 0.000125 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.00.16:136][589]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.00.16:136][589]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.00.16:136][589]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.00.18:539][733]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.00.18:541][733]LogMaterial: 0.000080 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.00.18:541][733]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2015.03.30-13.00.18:684][740]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.00.18:685][740]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.00.18:685][740]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.00.22:814][984]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.00.22:816][984]LogMaterial: 0.000040 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.00.22:981][993]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.00.22:981][993]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.00.22:981][993]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.00.26:717][217]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.00.26:718][217]LogMaterial: 0.000069 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.00.26:865][225]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.00.26:865][225]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.00.26:865][225]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.00.31:309][488]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.00.31:310][488]LogMaterial: 0.000094 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.00.31:443][495]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.00.31:443][495]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.00.31:443][495]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.00.40:279][ 25]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.00.40:281][ 25]LogMaterial: 0.000064 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.00.40:426][ 33]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.00.40:426][ 33]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.00.40:426][ 33]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.00.44:821][294]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.00.44:823][294]LogMaterial: 0.000047 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.00.44:956][301]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.00.44:956][301]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.00.44:956][301]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.00.47:408][448]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.00.47:410][448]LogMaterial: 0.000070 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.00.47:535][455]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.00.47:535][455]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.00.47:535][455]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.00.50:335][620]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.00.50:337][620]LogMaterial: 0.000073 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.00.50:488][628]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.00.50:488][628]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.00.50:488][628]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.00.51:007][659]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.00.51:009][659]LogMaterial: 0.000128 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.00.51:009][659]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionBumpOffset_0, compiling. 
+[2015.03.30-13.00.51:143][666]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.00.51:143][666]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.00.51:143][666]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.00.54:251][849]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.00.54:253][849]LogMaterial: 0.000047 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.00.54:392][856]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.00.54:392][856]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.00.54:392][856]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.00.59:494][154]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.00.59:496][154]LogMaterial: 0.000049 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.00.59:496][154]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_0, compiling. 
+[2015.03.30-13.00.59:643][162]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.00.59:644][162]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.00.59:644][162]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.01.02:683][341]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.01.02:684][341]LogMaterial: 0.000057 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.01.02:840][349]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.01.02:840][349]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.01.02:840][349]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.01.48:200][ 66]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.01.48:202][ 66]LogMaterial: 0.000138 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.01.48:734][ 97]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.01.48:734][ 97]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.01.48:734][ 97]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.01.59:542][745]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.01.59:544][745]LogMaterial: 0.000127 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.01.59:674][752]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.01.59:674][752]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.01.59:674][752]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.02.32:441][464]LogMaterialEditor: Applying material lvl_proto
+[2015.03.30-13.02.33:670][464]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.02.33:674][464]LogMaterial: 0.000072 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.02.33:747][464]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.02.33:749][464]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.02.33:752][464]LogMaterial: 0.000615 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.02.34:461][507]MaterialEditorStats: Info Base pass shader without light map: 43 instructions
+[2015.03.30-13.02.34:461][507]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.02.34:461][507]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.02.47:881][298]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
+[2015.03.30-13.04.14:495][487]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Rendering/Materials/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2015.03.30-13.04.28:296][593]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Rendering/Materials/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2015.03.30-13.04.52:311][327]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.04.52:313][327]LogMaterial: 0.000112 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.04.52:829][357]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.04.52:829][357]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.04.52:829][357]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.04.54:903][481]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.04.54:904][481]LogMaterial: 0.000109 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.04.55:042][488]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.04.55:042][488]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.04.55:042][488]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.05.35:806][919]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.05.35:808][919]LogMaterial: 0.000167 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.05.35:808][919]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2015.03.30-13.05.36:393][953]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.05.36:394][953]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.05.36:394][953]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.05.48:088][633]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.05.48:090][633]LogMaterial: 0.000114 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.05.48:224][636]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.05.48:224][636]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.05.48:224][636]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.05.54:144][987]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.05.54:146][987]LogMaterial: 0.000059 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.05.54:279][994]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.05.54:279][994]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.05.54:279][994]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.05.58:357][236]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.05.58:358][236]LogMaterial: 0.000041 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.05.58:367][236]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.05.58:368][236]LogMaterial: 0.000047 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.05.58:513][243]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.05.58:513][243]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.05.58:513][243]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.06.02:677][391]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/main_level' took 0.011
+[2015.03.30-13.06.02:708][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/lvl_proto] ([1] browsable assets)...
+[2015.03.30-13.06.02:769][391]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/lvl_proto.lvl_proto]
+[2015.03.30-13.06.02:769][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/lvl_proto]
+[2015.03.30-13.06.02:770][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/lvl_proto" FILE="../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Materials/lvl_proto_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2015.03.30-13.06.03:015][391]LogSavePackage: Save=244.215485ms
+[2015.03.30-13.06.03:015][391]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/lvl_proto_Auto3E750D48F4A820A5C49A19FB2742401C0.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Materials/lvl_proto_Auto3.uasset'
+[2015.03.30-13.06.03:019][391]LogFileHelpers: Auto-saving content packages took 0.343
+[2015.03.30-13.06.31:285][  5]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_0, compiling. 
+[2015.03.30-13.07.12:413][463]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.07.12:415][463]LogMaterial: 0.000073 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.07.12:416][463]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.07.12:417][463]LogMaterial: 0.000057 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.07.12:946][494]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.07.12:946][494]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.07.12:946][494]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.07.22:950][ 94]LogMaterialEditor: Applying material lvl_proto
+[2015.03.30-13.07.24:158][ 94]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.07.24:162][ 94]LogMaterial: 0.000038 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.07.24:234][ 94]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.07.24:237][ 94]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.07.24:239][ 94]LogMaterial: 0.000390 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.07.24:546][113]MaterialEditorStats: Info Base pass shader without light map: 43 instructions
+[2015.03.30-13.07.24:546][113]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.07.24:546][113]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.07.34:081][680]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.07.34:083][680]LogMaterial: 0.000107 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.07.34:223][687]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.07.34:223][687]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.07.34:223][687]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.07.37:310][871]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.07.37:311][871]LogMaterial: 0.000125 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.07.37:437][877]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.07.37:437][877]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.07.37:437][877]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.07.44:246][282]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.07.44:247][282]LogMaterial: 0.000055 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.07.44:380][289]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.07.44:380][289]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.07.44:380][289]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.07.56:820][ 35]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_1, compiling. 
+[2015.03.30-13.08.13:642][ 42]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_1, compiling. 
+[2015.03.30-13.08.54:324][ 64]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.08.54:326][ 64]LogMaterial: 0.000085 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.08.54:914][ 99]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.08.54:914][ 99]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.08.54:914][ 99]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.08.56:969][215]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.08.56:971][215]LogMaterial: 0.000117 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.08.57:119][224]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.08.57:119][224]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.08.57:119][224]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.09.08:532][560]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.09.08:534][560]LogMaterial: 0.000106 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.09.08:535][560]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.09.08:537][560]LogMaterial: 0.000041 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.09.08:684][568]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.09.08:684][568]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.09.08:684][568]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.09.11:151][712]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.09.11:153][712]LogMaterial: 0.000066 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.09.11:284][720]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.09.11:284][720]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.09.11:284][720]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.09.40:472][439]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.09.40:474][439]LogMaterial: 0.000067 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.09.40:474][439]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2015.03.30-13.09.40:477][439]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.09.40:478][439]LogMaterial: 0.000083 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.09.40:504][439]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2015.03.30-13.09.41:044][469]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.09.41:044][469]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.09.41:044][469]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.10.13:999][249]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.10.14:001][249]LogMaterial: 0.000055 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.10.14:029][249]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2015.03.30-13.10.14:647][286]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.10.14:647][286]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.10.14:647][286]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.10.25:403][604]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.10.25:405][604]LogMaterial: 0.000059 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.10.25:429][604]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2015.03.30-13.10.25:593][614]MaterialEditorStats: Info Base pass shader without light map: 22 instructions
+[2015.03.30-13.10.25:593][614]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.10.25:593][614]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.03.30-13.11.04:188][119]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Materials'
+[2015.03.30-13.11.06:648][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/lvl_proto" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Materials/lvl_proto.uasset" SILENT=true
+[2015.03.30-13.11.06:816][261]LogSavePackage: Save=167.506302ms
+[2015.03.30-13.11.06:816][261]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/lvl_protoA526935E40B5A58B41A81691503AF0D2.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Materials/lvl_proto.uasset'
+[2015.03.30-13.11.12:143][581]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Sprites'
+[2015.03.30-13.11.50:464][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/ground1" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Sprites/ground1.uasset" SILENT=true
+[2015.03.30-13.11.50:523][857]LogSavePackage: Save=58.810947ms
+[2015.03.30-13.11.50:523][857]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/ground19E815814409B26198D6555833003CB32.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Sprites/ground1.uasset'
+[2015.03.30-13.13.15:244][446]LogRenderer:Warning: Reallocating scene render targets to support 1528x928 (Frame:49028).
+[2015.03.30-13.14.28:051][924]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.14.28:053][924]LogMaterial: 0.000101 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.14.28:617][958]MaterialEditorStats: Info Base pass shader without light map: 22 instructions
+[2015.03.30-13.14.28:617][958]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.14.28:617][958]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.03.30-13.14.54:260][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/ground1" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Sprites/ground1.uasset" SILENT=true
+[2015.03.30-13.14.54:321][460]LogSavePackage: Save=59.535152ms
+[2015.03.30-13.14.54:321][460]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/ground11683FC52456E8CC88EB56F862CBB29DC.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Sprites/ground1.uasset'
+[2015.03.30-13.16.03:644][443]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000001887341DA0
+[2015.03.30-13.16.03:646][443]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/main_level' took 0.010
+[2015.03.30-13.16.03:679][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/ground1] ([1] browsable assets)...
+[2015.03.30-13.16.03:723][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/ground1.ground1]
+[2015.03.30-13.16.03:723][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/ground1]
+[2015.03.30-13.16.03:724][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/ground1" FILE="../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Sprites/ground1_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2015.03.30-13.16.03:874][443]LogSavePackage: Save=148.892075ms
+[2015.03.30-13.16.03:874][443]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/ground1_Auto4B83C379B4A77F7BCB12C209BA41722C0.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Sprites/ground1_Auto4.uasset'
+[2015.03.30-13.16.03:879][443]LogFileHelpers: Auto-saving content packages took 0.234
+[2015.03.30-13.16.27:526][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/ground1" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Sprites/ground1.uasset" SILENT=true
+[2015.03.30-13.16.27:531][639]LogSavePackage: Save=4.089875ms
+[2015.03.30-13.16.27:531][639]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/ground1ACD8DE1A460F26C2923438B1E61324D8.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Sprites/ground1.uasset'
+[2015.03.30-13.17.18:494][109]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.17.18:495][109]LogMaterial: 0.000101 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.17.19:025][140]MaterialEditorStats: Info Base pass shader without light map: 22 instructions
+[2015.03.30-13.17.19:025][140]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.17.19:025][140]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.03.30-13.17.26:223][565]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.17.26:224][565]LogMaterial: 0.000095 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.17.26:225][565]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.17.26:227][565]LogMaterial: 0.000108 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.17.26:409][575]MaterialEditorStats: Info Base pass shader without light map: 22 instructions
+[2015.03.30-13.17.26:409][575]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.17.26:409][575]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.03.30-13.17.41:987][ 11]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.17.41:988][ 11]LogMaterial: 0.000025 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.17.42:153][ 21]MaterialEditorStats: Info Base pass shader without light map: 22 instructions
+[2015.03.30-13.17.42:153][ 21]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.17.42:153][ 21]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.03.30-13.17.45:170][195]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.17.45:172][195]LogMaterial: 0.000053 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.17.45:200][195]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2015.03.30-13.17.45:333][203]MaterialEditorStats: Info Base pass shader without light map: 22 instructions
+[2015.03.30-13.17.45:333][203]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.17.45:333][203]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.03.30-13.18.19:781][145]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.30-13.18.19:782][145]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Engine/EngineResources'
+[2015.03.30-13.18.21:477][245]Cmd: SELECT NONE
+[2015.03.30-13.18.22:111][283]Cmd: SELECT NONE
+[2015.03.30-13.18.36:023][114]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.18.36:024][114]LogMaterial: 0.000053 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.18.36:553][146]MaterialEditorStats: Info Base pass shader without light map: 18 instructions
+[2015.03.30-13.18.36:553][146]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.03.30-13.18.36:553][146]MaterialEditorStats: Info Texture samplers: 0/16
+[2015.03.30-13.18.39:587][324]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.18.39:589][324]LogMaterial: 0.000068 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.18.39:720][332]MaterialEditorStats: Info Base pass shader without light map: 22 instructions
+[2015.03.30-13.18.39:720][332]MaterialEditorStats: Info Vertex shader: 32 instructions
+[2015.03.30-13.18.39:720][332]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.03.30-13.18.42:027][450]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.18.42:028][450]LogMaterial: 0.000071 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.18.42:176][459]MaterialEditorStats: Info Base pass shader without light map: 22 instructions
+[2015.03.30-13.18.42:176][459]MaterialEditorStats: Info Vertex shader: 32 instructions
+[2015.03.30-13.18.42:176][459]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.03.30-13.18.45:903][678]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.18.45:904][678]LogMaterial: 0.000047 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.18.46:067][688]MaterialEditorStats: Info Base pass shader without light map: 22 instructions
+[2015.03.30-13.18.46:067][688]MaterialEditorStats: Info Vertex shader: 32 instructions
+[2015.03.30-13.18.46:067][688]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.03.30-13.18.51:966][923]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.18.51:968][923]LogMaterial: 0.000064 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.18.52:132][933]MaterialEditorStats: Info Base pass shader without light map: 22 instructions
+[2015.03.30-13.18.52:132][933]MaterialEditorStats: Info Vertex shader: 32 instructions
+[2015.03.30-13.18.52:132][933]MaterialEditorStats: Info Texture samplers: 1/16
+[2015.03.30-13.19.10:000][928]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000001884B96480
+[2015.03.30-13.19.21:834][360]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.19.21:842][360]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.19.21:845][360]LogMaterial: 0.000034 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.19.23:194][437]MaterialEditorStats: Info Base pass shader without light map: 8 instructions
+[2015.03.30-13.19.23:194][437]MaterialEditorStats: Info Vertex shader: 69 instructions
+[2015.03.30-13.19.23:194][437]MaterialEditorStats: Info Texture samplers: 3/16
+[2015.03.30-13.19.36:112][204]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Engine'
+[2015.03.30-13.19.46:177][700]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Engine'
+[2015.03.30-13.19.57:932][400]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
+[2015.03.30-13.22.42:556][975]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Sprites'
+[2015.03.30-13.22.49:310][374]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (img_Sprite)
+[2015.03.30-13.22.52:115][541]LogEditorViewport: Clicking Background
+[2015.03.30-13.22.52:631][572]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (img_Sprite)
+[2015.03.30-13.23.56:059][363]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (img_Sprite)
+[2015.03.30-13.24.15:466][519]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (img_Sprite)
+[2015.03.30-13.24.21:003][850]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (img_Sprite)
+[2015.03.30-13.24.37:917][858]LogEditorViewport: Clicking Background
+[2015.03.30-13.24.42:651][142]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (img_Sprite)
+[2015.03.30-13.24.58:077][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/main_level" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/main_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.30-13.24.58:094][ 33]LogSavePackage: Save=6.029713ms
+[2015.03.30-13.24.58:094][ 33]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/main_level72862ECE4E3CD969DAC903B3B9521D21.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/main_level.umap'
+[2015.03.30-13.24.58:107][ 33]LogFileHelpers: Saving map 'main_level' took 0.128
+[2015.03.30-13.24.58:120][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/img_Sprite" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Sprites/img_Sprite.uasset" SILENT=true
+[2015.03.30-13.24.58:177][ 33]LogSavePackage: Save=55.201412ms
+[2015.03.30-13.24.58:177][ 33]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/img_SpriteD418162A47CC81F863F8F5BD231674D5.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Sprites/img_Sprite.uasset'
+[2015.03.30-13.24.58:191][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/ground1" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Sprites/ground1.uasset" SILENT=true
+[2015.03.30-13.24.58:252][ 33]LogSavePackage: Save=59.653393ms
+[2015.03.30-13.24.58:252][ 33]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/ground15E5BB1FE4FDAE6D0559E1ABB51D65AC4.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Sprites/ground1.uasset'
+[2015.03.30-13.25.35:369][238]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Materials'
+[2015.03.30-13.26.07:097][120]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.26.07:100][120]LogMaterial: 0.000065 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.26.08:396][198]MaterialEditorStats: Info Base pass shader without light map: 8 instructions
+[2015.03.30-13.26.08:396][198]MaterialEditorStats: Info Vertex shader: 69 instructions
+[2015.03.30-13.26.08:396][198]MaterialEditorStats: Info Texture samplers: 3/16
+[2015.03.30-13.26.36:078][854]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.26.36:081][854]LogMaterial: 0.000067 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.26.36:104][854]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2015.03.30-13.26.37:418][933]MaterialEditorStats: Info Base pass shader without light map: 8 instructions
+[2015.03.30-13.26.37:418][933]MaterialEditorStats: Info Vertex shader: 69 instructions
+[2015.03.30-13.26.37:418][933]MaterialEditorStats: Info Texture samplers: 3/16
+[2015.03.30-13.26.51:171][752]LogMaterialEditor: Applying material lvl_proto
+[2015.03.30-13.26.52:395][752]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.26.52:403][752]LogMaterial: 0.000046 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.26.52:471][752]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.26.52:477][752]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.26.52:481][752]LogMaterial: 0.000600 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.26.53:828][833]MaterialEditorStats: Info Base pass shader without light map: 26 instructions
+[2015.03.30-13.26.53:828][833]MaterialEditorStats: Info Vertex shader: 69 instructions
+[2015.03.30-13.26.53:828][833]MaterialEditorStats: Info Texture samplers: 3/16
+[2015.03.30-13.27.27:169][805]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2015.03.30-13.27.28:086][860]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Materials'
+[2015.03.30-13.27.37:775][436]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
+[2015.03.30-13.27.42:026][691]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.28.01:109][814]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0019 seconds. Added 1 classes and 2 folders.
+[2015.03.30-13.29.03:712][513]LogTexture:Display: Building textures: img (RGBA16F)
+[2015.03.30-13.29.03:715][513]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.29.03:716][513]LogMaterial:Warning: Failed to compile Material /Game/Materials/lvl_proto.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.29.03:716][513]LogMaterial:Warning: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Linear Color for /Game/Textures/img.img
+[2015.03.30-13.29.03:717][513]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.29.03:718][513]LogMaterial:Warning: Failed to compile Material /Engine/Transient.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.29.03:718][513]LogMaterial:Warning: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Linear Color for /Game/Textures/img.img
+[2015.03.30-13.29.03:718][513]LogMaterial: 0.000608 seconds spent updating 2 materials, 2 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.29.03:722][513]MaterialEditorStats:Error: Error [SM5] (Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Linear Color for /Game/Textures/img.img
+[2015.03.30-13.29.08:274][780]LogTexture:Display: Building textures: img (AutoDXT)
+[2015.03.30-13.29.08:292][780]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.29.08:292][780]LogMaterial:Warning: Failed to compile Material /Game/Materials/lvl_proto.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.29.08:292][780]LogMaterial:Warning: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Linear Color for /Game/Textures/img.img
+[2015.03.30-13.29.08:293][780]LogMaterial: 0.000429 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.29.10:441][907]LogTexture:Display: Building textures: img (BC5)
+[2015.03.30-13.29.10:444][907]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.29.10:445][907]LogMaterial:Warning: Failed to compile Material /Game/Materials/lvl_proto.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.29.10:445][907]LogMaterial:Warning: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Normal for /Game/Textures/img.img
+[2015.03.30-13.29.10:446][907]LogMaterial: 0.000804 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.29.10:449][907]MaterialEditorStats:Error: Error [SM5] (Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Normal for /Game/Textures/img.img
+[2015.03.30-13.29.16:590][265]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.29.16:590][265]LogMaterial:Warning: Failed to compile Material /Game/Materials/lvl_proto.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.29.16:590][265]LogMaterial:Warning: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Masks for /Game/Textures/img.img
+[2015.03.30-13.29.16:591][265]LogMaterial: 0.000405 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.29.16:594][265]MaterialEditorStats:Error: Error [SM5] (Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Masks for /Game/Textures/img.img
+[2015.03.30-13.29.19:938][464]LogTexture:Display: Building textures: img (G8)
+[2015.03.30-13.29.19:941][464]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.29.19:941][464]LogMaterial:Warning: Failed to compile Material /Game/Materials/lvl_proto.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.29.19:941][464]LogMaterial:Warning: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Linear Grayscale for /Game/Textures/img.img
+[2015.03.30-13.29.19:942][464]LogMaterial: 0.000454 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.29.19:944][464]MaterialEditorStats:Error: Error [SM5] (Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Linear Grayscale for /Game/Textures/img.img
+[2015.03.30-13.29.22:370][608]LogTexture:Display: Building textures: img (G8)
+[2015.03.30-13.29.22:373][608]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.29.22:373][608]LogMaterial:Warning: Failed to compile Material /Game/Materials/lvl_proto.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.29.22:373][608]LogMaterial:Warning: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Linear Color for /Game/Textures/img.img
+[2015.03.30-13.29.22:374][608]LogMaterial: 0.000565 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.29.22:376][608]MaterialEditorStats:Error: Error [SM5] (Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Linear Color for /Game/Textures/img.img
+[2015.03.30-13.29.24:786][747]LogTexture:Display: Building textures: img (BGRA8)
+[2015.03.30-13.29.24:789][747]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.29.24:789][747]LogMaterial:Warning: Failed to compile Material /Game/Materials/lvl_proto.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.29.24:789][747]LogMaterial:Warning: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Linear Color for /Game/Textures/img.img
+[2015.03.30-13.29.24:790][747]LogMaterial: 0.000419 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.29.27:688][915]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.29.27:688][915]LogMaterial:Warning: Failed to compile Material /Game/Materials/lvl_proto.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.29.27:689][915]LogMaterial:Warning: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Linear Color for /Game/Textures/img.img
+[2015.03.30-13.29.27:689][915]LogMaterial: 0.000406 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.29.30:361][ 69]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.29.30:361][ 69]LogMaterial:Warning: Failed to compile Material /Game/Materials/lvl_proto.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.29.30:361][ 69]LogMaterial:Warning: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Linear Color for /Game/Textures/img.img
+[2015.03.30-13.29.30:362][ 69]LogMaterial: 0.000540 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.29.32:551][195]LogTexture:Display: Building textures: img (BC4)
+[2015.03.30-13.29.32:554][195]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.29.32:555][195]LogMaterial:Warning: Failed to compile Material /Game/Materials/lvl_proto.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.29.32:555][195]LogMaterial:Warning: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Alpha for /Game/Textures/img.img
+[2015.03.30-13.29.32:555][195]LogMaterial: 0.000390 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.29.32:558][195]MaterialEditorStats:Error: Error [SM5] (Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Alpha for /Game/Textures/img.img
+[2015.03.30-13.29.34:969][334]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.29.34:969][334]LogMaterial:Warning: Failed to compile Material /Game/Materials/lvl_proto.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.29.34:969][334]LogMaterial:Warning: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Distance Field Font for /Game/Textures/img.img
+[2015.03.30-13.29.34:970][334]LogMaterial: 0.000369 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.29.34:972][334]MaterialEditorStats:Error: Error [SM5] (Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Distance Field Font for /Game/Textures/img.img
+[2015.03.30-13.29.37:185][461]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.29.37:185][461]LogMaterial:Warning: Failed to compile Material /Game/Materials/lvl_proto.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.29.37:185][461]LogMaterial:Warning: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Linear Color for /Game/Textures/img.img
+[2015.03.30-13.29.37:186][461]LogMaterial: 0.000333 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.29.37:188][461]MaterialEditorStats:Error: Error [SM5] (Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Linear Color for /Game/Textures/img.img
+[2015.03.30-13.29.42:733][782]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.29.42:734][782]LogMaterial:Warning: Failed to compile Material /Game/Materials/lvl_proto.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.29.42:734][782]LogMaterial:Warning: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Linear Color for /Game/Textures/img.img
+[2015.03.30-13.29.42:734][782]LogMaterial: 0.000409 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.29.45:949][969]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.29.45:949][969]LogMaterial:Warning: Failed to compile Material /Game/Materials/lvl_proto.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.29.45:949][969]LogMaterial:Warning: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Linear Color for /Game/Textures/img.img
+[2015.03.30-13.29.45:950][969]LogMaterial: 0.000392 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.29.51:031][274]LogTexture:Display: Building textures: img (DXT1)
+[2015.03.30-13.30.10:523][441]LogEditorFactories: Performing atomic reimport of [C:/Users/lubou_000/Pictures/bomb_party.png]
+[2015.03.30-13.30.10:523][441]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/lubou_000/Pictures/bomb_party.png)
+[2015.03.30-13.30.10:525][441]LogTexture:Display: Building textures: img (BGRA8)
+[2015.03.30-13.30.10:526][441]LogEditorFactories: -- imported successfully
+[2015.03.30-13.30.28:736][496]LogTexture:Display: Building textures: img (BGRA8)
+[2015.03.30-13.30.31:515][655]LogTexture:Display: Building textures: img (DXT1)
+[2015.03.30-13.30.33:140][753]LogEditorFactories: Performing atomic reimport of [C:/Users/lubou_000/Pictures/bomb_party.png]
+[2015.03.30-13.30.33:141][753]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/lubou_000/Pictures/bomb_party.png)
+[2015.03.30-13.30.33:143][753]LogTexture:Display: Building textures: img (BGRA8)
+[2015.03.30-13.30.33:146][753]LogEditorFactories: -- imported successfully
+[2015.03.30-13.30.37:249][969]LogTexture:Display: Building textures: img (BGRA8)
+[2015.03.30-13.30.39:581][103]LogTexture:Display: Building textures: img (BGRA8)
+[2015.03.30-13.30.42:297][260]LogTexture:Display: Building textures: img (BGRA8)
+[2015.03.30-13.30.48:312][607]LogTexture:Display: Building textures: img (DXT1)
+[2015.03.30-13.30.51:261][784]LogEditorFactories: Performing atomic reimport of [C:/Users/lubou_000/Pictures/bomb_party.png]
+[2015.03.30-13.30.51:261][784]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/lubou_000/Pictures/bomb_party.png)
+[2015.03.30-13.30.51:263][784]LogTexture:Display: Building textures: img (BGRA8)
+[2015.03.30-13.30.51:265][784]LogEditorFactories: -- imported successfully
+[2015.03.30-13.30.57:611][137]LogTexture:Display: Building textures: img (BGRA8)
+[2015.03.30-13.31.24:239][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/img" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Textures/img.uasset" SILENT=true
+[2015.03.30-13.31.24:242][720]LogTexture:Display: Building textures: img (DXT1)
+[2015.03.30-13.31.24:288][720]LogSavePackage: Save=46.241211ms
+[2015.03.30-13.31.24:288][720]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/imgD2E5797945E6DDD3074E42AFC2C21D62.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Textures/img.uasset'
+[2015.03.30-13.31.44:133][902]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.31.44:134][902]LogMaterial:Warning: Failed to compile Material /Engine/Transient.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.31.44:134][902]LogMaterial:Warning: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Color, should be Linear Color for /Game/Textures/img.img
+[2015.03.30-13.31.44:134][902]LogMaterial: 0.000063 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.32.03:077][ 30]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.30-13.32.03:077][ 30]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.32.18:994][949]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.32.18:997][949]LogMaterial: 0.000018 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.32.19:020][949]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2015.03.30-13.32.20:359][ 28]MaterialEditorStats: Info Base pass shader without light map: 8 instructions
+[2015.03.30-13.32.20:359][ 28]MaterialEditorStats: Info Vertex shader: 69 instructions
+[2015.03.30-13.32.20:359][ 28]MaterialEditorStats: Info Texture samplers: 3/16
+[2015.03.30-13.32.24:152][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/lvl_proto" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Materials/lvl_proto.uasset" SILENT=true
+[2015.03.30-13.32.24:441][249]LogSavePackage: Save=287.892426ms
+[2015.03.30-13.32.24:441][249]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/lvl_proto6C26DA49479B60EF61773F8C1C622D3E.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Materials/lvl_proto.uasset'
+[2015.03.30-13.33.08:762][882]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Sprites'
+[2015.03.30-13.33.18:376][445]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.33.42:515][866]LogTexture:Display: Building textures: img (DXT1)
+[2015.03.30-13.33.54:079][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/img" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Textures/img.uasset" SILENT=true
+[2015.03.30-13.33.54:108][531]LogSavePackage: Save=27.053858ms
+[2015.03.30-13.33.54:108][531]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/img9C05FE1A4F3546E55279D69E3C3AC6DD.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Textures/img.uasset'
+[2015.03.30-13.34.09:064][425]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (img_Sprite)
+[2015.03.30-13.34.09:125][427]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2015.03.30-13.34.12:927][653]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Sprites'
+[2015.03.30-13.34.32:669][330]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.34.32:669][330]LogMaterial:Warning: Failed to compile Material /Engine/Transient.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.34.32:669][330]LogMaterial:Warning: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Linear Color, should be Color for /Game/Textures/img.img
+[2015.03.30-13.34.32:669][330]LogMaterial: 0.000069 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.34.32:731][330]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.34.32:731][330]LogMaterial:Warning: Failed to compile Material /Game/Materials/lvl_proto.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.34.32:731][330]LogMaterial:Warning: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Linear Color, should be Color for /Game/Textures/img.img
+[2015.03.30-13.34.32:732][330]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.34.32:733][330]LogMaterial:Warning: Failed to compile Material /Game/Materials/lvl_proto.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.34.32:733][330]LogMaterial:Warning: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Linear Color, should be Color for /Game/Textures/img.img
+[2015.03.30-13.34.32:733][330]LogMaterial: 0.000381 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.34.33:028][330]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'PaperSpriteComponent_6' or package '/Engine/Transient'.
+[2015.03.30-13.34.33:080][330]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000196C3B23E0
+[2015.03.30-13.34.33:080][330]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000018883B9BC0
+[2015.03.30-13.34.33:080][330]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000196C3E6D40
+[2015.03.30-13.34.41:678][606]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.34.57:398][503]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.30-13.34.57:398][503]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.35.07:439][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/main_level" FILE="../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/main_level_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2015.03.30-13.35.07:447][ 83]LogSavePackage: Save=5.898748ms
+[2015.03.30-13.35.07:447][ 83]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/main_level_Auto56C1A39D74C97FB428874EFA4FAE5515E.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/main_level_Auto5.umap'
+[2015.03.30-13.35.07:453][ 83]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/main_level' took 0.105
+[2015.03.30-13.35.07:453][ 83]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.105
+[2015.03.30-13.35.07:485][ 83]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/img2] ([1] browsable assets)...
+[2015.03.30-13.35.07:522][ 83]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/img2.img2]
+[2015.03.30-13.35.07:522][ 83]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/img2]
+[2015.03.30-13.35.07:523][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/img2" FILE="../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Textures/img2_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2015.03.30-13.35.07:622][ 83]LogSavePackage: Save=98.122116ms
+[2015.03.30-13.35.07:622][ 83]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/img2_Auto5D90C12F04083DD18F8E551BACEE8572D.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Textures/img2_Auto5.uasset'
+[2015.03.30-13.35.07:661][ 83]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/lvl_proto] ([1] browsable assets)...
+[2015.03.30-13.35.07:718][ 83]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/lvl_proto.lvl_proto]
+[2015.03.30-13.35.07:718][ 83]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/lvl_proto]
+[2015.03.30-13.35.07:720][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/lvl_proto" FILE="../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Materials/lvl_proto_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2015.03.30-13.35.08:091][ 83]LogSavePackage: Save=369.159485ms
+[2015.03.30-13.35.08:092][ 83]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/lvl_proto_Auto5188062B746168E80C34C4FA9293B533E.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Materials/lvl_proto_Auto5.uasset'
+[2015.03.30-13.35.08:127][ 83]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/img2_Sprite] ([1] browsable assets)...
+[2015.03.30-13.35.08:178][ 83]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Textures/img2_Sprite.img2_Sprite]
+[2015.03.30-13.35.08:178][ 83]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/img2_Sprite]
+[2015.03.30-13.35.08:180][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/img2_Sprite" FILE="../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Textures/img2_Sprite_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2015.03.30-13.35.08:303][ 83]LogSavePackage: Save=122.003670ms
+[2015.03.30-13.35.08:303][ 83]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/img2_Sprite_Auto5BCA6091A490C4B0396C8738E25B6BB8A.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Saved/Autosaves/Game/Textures/img2_Sprite_Auto5.uasset'
+[2015.03.30-13.35.08:307][ 83]LogFileHelpers: Auto-saving content packages took 0.854
+[2015.03.30-13.35.35:623][617]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.30-13.35.35:623][617]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.35.39:573][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/img2_Sprite" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Sprites/img2_Sprite.uasset" SILENT=true
+[2015.03.30-13.35.39:608][836]LogSavePackage: Save=33.719917ms
+[2015.03.30-13.35.39:608][836]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/img2_Sprite92F9E37C414532A1E18966B975870D31.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Sprites/img2_Sprite.uasset'
+[2015.03.30-13.35.40:696][897]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Sprites'
+[2015.03.30-13.36.00:972][ 58]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Materials'
+[2015.03.30-13.36.03:119][185]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2015.03.30-13.36.03:119][185]LogMaterial:Warning: Failed to compile Material /Engine/Transient.PreviewMaterial_0 for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.36.03:119][185]LogMaterial:Warning: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Linear Color, should be Color for /Game/Textures/img.img
+[2015.03.30-13.36.03:164][185]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_1) Not registered. Aborting.
+[2015.03.30-13.36.03:197][185]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_1) Not registered. Aborting.
+[2015.03.30-13.36.03:197][185]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.MaterialEditorMeshComponent_1) Already registered. Aborting.
+[2015.03.30-13.36.03:197][185]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_1) Not registered. Aborting.
+[2015.03.30-13.36.03:197][185]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.MaterialEditorMeshComponent_1) Already registered. Aborting.
+[2015.03.30-13.36.03:200][185]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2015.03.30-13.36.03:200][185]LogMaterial:Warning: Failed to compile Material /Engine/Transient.PreviewMaterial_0 for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.36.03:200][185]LogMaterial:Warning: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Linear Color, should be Color for /Game/Textures/img.img
+[2015.03.30-13.36.03:200][185]LogMaterial: 0.000060 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.36.03:225][185]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2015.03.30-13.36.03:226][185]MaterialEditorStats:Error: Error [SM5] (Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Linear Color, should be Color for /Game/Textures/img.img
+[2015.03.30-13.36.10:530][609]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2015.03.30-13.36.10:539][609]LogMaterial: 0.000134 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.36.10:562][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2015.03.30-13.36.11:890][687]MaterialEditorStats: Info Base pass shader without light map: 8 instructions
+[2015.03.30-13.36.11:890][687]MaterialEditorStats: Info Vertex shader: 69 instructions
+[2015.03.30-13.36.11:890][687]MaterialEditorStats: Info Texture samplers: 3/16
+[2015.03.30-13.36.15:933][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/main_level" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/main_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.30-13.36.15:950][919]LogSavePackage: Save=5.584269ms
+[2015.03.30-13.36.15:950][919]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/main_level1D6B25D64CA3F91D6F7AA281332F28BE.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/main_level.umap'
+[2015.03.30-13.36.15:963][919]LogFileHelpers: Saving map 'main_level' took 0.128
+[2015.03.30-13.36.15:969][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/img2" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Textures/img2.uasset" SILENT=true
+[2015.03.30-13.36.15:991][919]LogSavePackage: Save=20.807375ms
+[2015.03.30-13.36.15:991][919]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/img269F22C1343732758A7586B919DAC9CC8.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Textures/img2.uasset'
+[2015.03.30-13.36.15:996][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/lvl_proto" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Materials/lvl_proto.uasset" SILENT=true
+[2015.03.30-13.36.16:001][919]LogSavePackage: Save=3.598039ms
+[2015.03.30-13.36.16:001][919]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/lvl_proto2FE3D58E445303C45379D2A83EEABE88.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Materials/lvl_proto.uasset'
+[2015.03.30-13.36.16:007][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/img2_Sprite" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Textures/img2_Sprite.uasset" SILENT=true
+[2015.03.30-13.36.16:008][919]LogSavePackage: Save=0.903205ms
+[2015.03.30-13.36.16:008][919]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/img2_SpriteD8BFC9B34EFFBBC5C7CD4095C59CA35C.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Textures/img2_Sprite.uasset'
+[2015.03.30-13.36.16:021][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/img2_Sprite" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Sprites/img2_Sprite.uasset" SILENT=true
+[2015.03.30-13.36.16:059][919]LogSavePackage: Save=35.659348ms
+[2015.03.30-13.36.16:059][919]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/img2_Sprite916ED1AA4338913351EB0EB0FD58242D.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Sprites/img2_Sprite.uasset'
+[2015.03.30-13.36.29:315][676]LogMaterialEditor: Applying material lvl_proto
+[2015.03.30-13.36.30:565][676]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2015.03.30-13.36.30:573][676]LogMaterial: 0.000040 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.36.30:657][676]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.36.30:662][676]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.36.30:666][676]LogMaterial: 0.000354 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.36.32:043][759]MaterialEditorStats: Info Base pass shader without light map: 26 instructions
+[2015.03.30-13.36.32:043][759]MaterialEditorStats: Info Vertex shader: 69 instructions
+[2015.03.30-13.36.32:043][759]MaterialEditorStats: Info Texture samplers: 3/16
+[2015.03.30-13.37.38:145][725]LogEditorViewport: Clicking Background
+[2015.03.30-13.37.49:042][374]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2015.03.30-13.37.49:056][374]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2015.03.30-13.37.50:844][482]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Sprites'
+[2015.03.30-13.38.48:808][947]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (img2_Sprite)
+[2015.03.30-13.40.11:970][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/main_level" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/main_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.30-13.40.11:988][911]LogSavePackage: Save=5.996048ms
+[2015.03.30-13.40.11:988][911]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/main_level76EE242540EB687897E1ACBE69CC07E4.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/main_level.umap'
+[2015.03.30-13.40.12:001][911]LogFileHelpers: Saving map 'main_level' took 0.132
+[2015.03.30-13.40.12:021][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/lvl_proto" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Materials/lvl_proto.uasset" SILENT=true
+[2015.03.30-13.40.12:228][911]LogSavePackage: Save=203.857010ms
+[2015.03.30-13.40.12:228][911]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/lvl_protoF225242C4FC9F1A997D5AF8C990701AB.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Materials/lvl_proto.uasset'
+[2015.03.30-13.40.12:241][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/img2_Sprite" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Sprites/img2_Sprite.uasset" SILENT=true
+[2015.03.30-13.40.12:251][911]LogSavePackage: Save=7.855829ms
+[2015.03.30-13.40.12:251][911]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/img2_SpriteF7114A7F49C589F10D36F59F3BBA1C31.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Sprites/img2_Sprite.uasset'
+[2015.03.30-13.41.18:680][844]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'PaperSpriteComponent_8' or package '/Engine/Transient'.
+[2015.03.30-13.41.18:730][844]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000196F5C2C00
+[2015.03.30-13.41.18:731][844]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000001894CFCEA0
+[2015.03.30-13.41.20:806][967]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2015.03.30-13.41.20:820][967]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2015.03.30-13.41.22:476][ 67]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.41.33:331][609]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.41.33:331][609]LogMaterial:Warning: Failed to compile Material /Game/Materials/lvl_proto.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.41.33:331][609]LogMaterial:Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2015.03.30-13.41.33:332][609]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.41.33:333][609]LogMaterial:Warning: Failed to compile Material /Game/Materials/lvl_proto.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.41.33:333][609]LogMaterial:Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2015.03.30-13.41.34:361][666]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Sprites'
+[2015.03.30-13.41.34:911][699]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Materials'
+[2015.03.30-13.41.37:078][829]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2015.03.30-13.41.38:044][887]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Materials'
+[2015.03.30-13.41.38:778][931]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.41.51:991][ 35]LogFactory: FactoryCreateBinary: Texture with TextureFactory (0 0 C:\Users\lubou_000\Pictures\ground_tmp.png)
+[2015.03.30-13.41.51:992][ 35]0.000004 seconds to analyze Texture2D /Game/Textures/ground_tmp.ground_tmp
+
+[2015.03.30-13.41.51:993][ 35]LogTexture:Display: Building textures: ground_tmp (AutoDXT)
+[2015.03.30-13.41.51:998][ 35]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.30-13.41.51:998][ 35]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.42.00:693][538]LogTexture:Display: Building textures: ground_tmp (BGRA8)
+[2015.03.30-13.42.05:001][782]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.30-13.42.05:001][782]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.42.09:384][ 34]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Sprites'
+[2015.03.30-13.42.11:751][176]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Textures'
+[2015.03.30-13.42.15:809][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/ground_tmp_Sprite" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Sprites/ground_tmp_Sprite.uasset" SILENT=true
+[2015.03.30-13.42.15:817][401]LogSavePackage: Save=6.895147ms
+[2015.03.30-13.42.15:817][401]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/ground_tmp_SpriteF0A1A0354348ADDB8FADE192EA4FC9D4.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Sprites/ground_tmp_Sprite.uasset'
+[2015.03.30-13.42.16:500][437]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Sprites'
+[2015.03.30-13.42.28:397][117]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Materials'
+[2015.03.30-13.42.29:062][155]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.42.29:062][155]LogMaterial:Warning: Failed to compile Material /Engine/Transient.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.42.29:062][155]LogMaterial:Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2015.03.30-13.42.29:104][155]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_2) Not registered. Aborting.
+[2015.03.30-13.42.29:139][155]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_2) Not registered. Aborting.
+[2015.03.30-13.42.29:139][155]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.MaterialEditorMeshComponent_2) Already registered. Aborting.
+[2015.03.30-13.42.29:140][155]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkeletalMeshComponent_2) Not registered. Aborting.
+[2015.03.30-13.42.29:140][155]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.MaterialEditorMeshComponent_2) Already registered. Aborting.
+[2015.03.30-13.42.29:142][155]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.42.29:143][155]LogMaterial:Warning: Failed to compile Material /Engine/Transient.lvl_proto for platform PCD3D_SM5, Default Material will be used in game.
+[2015.03.30-13.42.29:143][155]LogMaterial:Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2015.03.30-13.42.29:143][155]LogMaterial: 0.000057 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.42.29:168][155]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2015.03.30-13.42.29:169][155]MaterialEditorStats:Error: Error [SM5] (Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2015.03.30-13.42.48:393][300]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.42.48:396][300]LogMaterial: 0.000044 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.42.48:424][300]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2015.03.30-13.42.49:783][379]MaterialEditorStats: Info Base pass shader without light map: 8 instructions
+[2015.03.30-13.42.49:783][379]MaterialEditorStats: Info Vertex shader: 69 instructions
+[2015.03.30-13.42.49:783][379]MaterialEditorStats: Info Texture samplers: 3/16
+[2015.03.30-13.42.53:482][601]LogMaterialEditor: Applying material lvl_proto
+[2015.03.30-13.42.54:730][601]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.42.54:738][601]LogMaterial: 0.000074 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.42.54:812][601]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.42.54:817][601]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.42.54:822][601]LogMaterial: 0.000477 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.42.56:236][686]MaterialEditorStats: Info Base pass shader without light map: 26 instructions
+[2015.03.30-13.42.56:236][686]MaterialEditorStats: Info Vertex shader: 69 instructions
+[2015.03.30-13.42.56:236][686]MaterialEditorStats: Info Texture samplers: 3/16
+[2015.03.30-13.43.00:971][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/main_level" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/main_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.30-13.43.00:988][959]LogSavePackage: Save=5.160583ms
+[2015.03.30-13.43.00:988][959]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/main_levelCC0140ED43973B8C282FD482B7DEB316.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/main_level.umap'
+[2015.03.30-13.43.01:001][959]LogFileHelpers: Saving map 'main_level' took 0.130
+[2015.03.30-13.43.01:006][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/img" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Textures/img.uasset" SILENT=true
+[2015.03.30-13.43.01:030][959]LogSavePackage: Save=21.292231ms
+[2015.03.30-13.43.01:030][959]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/img2A1ED65B43E9821B209BE799DD5A1126.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Textures/img.uasset'
+[2015.03.30-13.43.01:035][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/ground_tmp" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Textures/ground_tmp.uasset" SILENT=true
+[2015.03.30-13.43.01:037][959]LogSavePackage: Save=1.328943ms
+[2015.03.30-13.43.01:037][959]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/ground_tmp154315FE4AADEA87FACE8293A92A6352.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Textures/ground_tmp.uasset'
+[2015.03.30-13.43.01:056][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/lvl_proto" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Materials/lvl_proto.uasset" SILENT=true
+[2015.03.30-13.43.01:411][959]LogSavePackage: Save=352.408752ms
+[2015.03.30-13.43.01:411][959]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/lvl_proto42440B184EFC62A9920AA682BF48D28E.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Materials/lvl_proto.uasset'
+[2015.03.30-13.43.01:416][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/ground_tmp_Sprite" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Textures/ground_tmp_Sprite.uasset" SILENT=true
+[2015.03.30-13.43.01:417][959]LogSavePackage: Save=0.908952ms
+[2015.03.30-13.43.01:418][959]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/ground_tmp_SpriteEAFB96E442D5D1633B210A982AB02734.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Textures/ground_tmp_Sprite.uasset'
+[2015.03.30-13.43.01:430][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/ground_tmp_Sprite" FILE="../../../../../gime_gummy_drugs/unreal_src/Content/Sprites/ground_tmp_Sprite.uasset" SILENT=true
+[2015.03.30-13.43.01:440][959]LogSavePackage: Save=7.292557ms
+[2015.03.30-13.43.01:440][959]LogSavePackage: Moving '../../../../../gime_gummy_drugs/unreal_src/Saved/ground_tmp_Sprite97C4BEFC4D15CD01990DB8B07D2D5189.tmp' to '../../../../../gime_gummy_drugs/unreal_src/Content/Sprites/ground_tmp_Sprite.uasset'
+[2015.03.30-13.43.09:290][426]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Sprites'
+[2015.03.30-13.44.19:757][633]LogUnrealMath: Expression Error : No value recognized
+[2015.03.30-13.44.19:757][633]LogUnrealMath: Expression Error : Error in expression
+[2015.03.30-13.44.19:757][633]LogUnrealMath: Expression Error : No value recognized
+[2015.03.30-13.44.19:757][633]LogUnrealMath: Expression Error : Error in expression
+[2015.03.30-13.44.23:639][866]Cmd: TRANSACTION UNDO
+[2015.03.30-13.44.23:639][866]LogEditorTransaction: Undo Scale Actors
+[2015.03.30-13.44.23:654][866]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.44.23:657][866]LogMaterial: 0.000133 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.03.30-13.44.25:069][929]MaterialEditorStats: Info Base pass shader without light map: 8 instructions
+[2015.03.30-13.44.25:069][929]MaterialEditorStats: Info Vertex shader: 69 instructions
+[2015.03.30-13.44.25:069][929]MaterialEditorStats: Info Texture samplers: 3/16
+[2015.03.30-13.45.22:043][329]LogMaterial: Missing cached shader map for material lvl_proto, compiling. 
+[2015.03.30-13.45.22:046][329]LogMaterial: 0.000096 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permu
